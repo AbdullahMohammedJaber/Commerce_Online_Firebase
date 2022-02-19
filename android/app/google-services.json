@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49953483553",
+    "project_id": "store-c64dd",
+    "storage_bucket": "store-c64dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49953483553:android:31f89ef41c2ad6de8aec60",
+        "android_client_info": {
+          "package_name": "com.example.kdr_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49953483553-05pnq2khnb927qo7fd1oc18vfbvnvfp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyV-mLdEuKHPwMfNGoErAsIMeN-XjomRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49953483553-05pnq2khnb927qo7fd1oc18vfbvnvfp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
